@@ -6,5 +6,5 @@
 #### [Тестовый прогон скриптов коллекции "Products" в Postman (JSON)](https://github.com/StanTokarev/api/blob/main/Stan%20Tokarev%20Test%20Run%20for%20Scripts%20in%20Products.json)
 Коллекция в Postman для тестирования WSDL <a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">сервиса</a>, который позволяет получать информацию о любой стране (столица, валюта, тел код, и.т.д.):
 #### [Тест SOAP-сервиса в Postman (Postman API)](https://www.postman.com/nosovertka/workspace/qa-demoshopping-stan-tokarev/collection/40891723-a3e2e368-599d-4d8b-82db-29d974bb54fc?action=share&creator=40891723&active-environment=40891723-98aef70a-e96a-4a0f-9fa3-aaec06181669)
-Набор тест-кейсов для тестирования в <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a> методов  GET, POST, PUT, PATCH, DELETE в <a href="https://qa.demoshopping.ru/api-docs/">Swagger</a> :
+Набор тест-кейсов для тестирования в <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a> методов  GET, POST, PUT, PATCH, DELETE, использую документацию в <a href="https://qa.demoshopping.ru/api-docs/">Swagger</a> : 
 #### [Тест-кейсы для тестирования API Products, методы GET, POST, PUT, PATCH, DELETE (PDF)](https://github.com/StanTokarev/api/blob/main/Stan%20Tokarev%20Test%20Cases%20for%20testing%20API%20Products.pdf)
